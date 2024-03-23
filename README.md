@@ -17,12 +17,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/osama206/Custom-Countdown.git
+   git clone https://github.com/osama206/custom-countdown.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Custom-Countdown
+   cd custom-countdown
    ```
 
 3. Open the `index.html` file in your web browser to view the application.
@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 
 You can experience a live demo of the Custom Countdown web application hosted on GitHub Pages. Simply visit the following link:
 
-[Custom Countdown Demo](https://osama206.github.io/Custom-Countdown/)
+[Custom Countdown Demo](https://osama206.github.io/custom-countdown/)
 
 In the demo, you can create custom countdowns by entering a title and selecting a target date. 
 The countdown will then be displayed, showing the remaining time until the target date. 
