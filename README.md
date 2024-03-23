@@ -35,6 +35,8 @@ To get started with this project, follow these steps:
 4. The countdown will be displayed, showing the remaining time until the target date.
 5. To reset the countdown, click the "RESET" button.
 
+## Demo
+
 You can experience a live demo of the Custom Countdown web application hosted on GitHub Pages. Simply visit the following link:
 
 [Custom Countdown Demo](https://osama206.github.io/Custom-Countdown/)
